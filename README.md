@@ -1,9 +1,9 @@
 # 📊 Proyek Analisis Data E-Commerce
 
 ## 👤 Informasi
-- **Nama:** [Isi Nama Anda]  
-- **Email:** [Isi Email Anda]  
-- **ID Dicoding:** [Isi Username Anda]  
+- **Nama:** [Shinta Khumaira]  
+- **Email:** [Banoffe1993@gmail.com]  
+- **ID Dicoding:** [CDCC942D6X1050]  
 
 ---
 
