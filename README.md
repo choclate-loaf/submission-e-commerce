@@ -84,7 +84,7 @@ dashboard/dashboard.py
 ---
 
 ## 🔗 Dashboard Online
-(Tambahkan link Streamlit Cloud di sini setelah deploy)
+(http://localhost:8501/)
 
 ---
 
